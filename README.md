@@ -16,7 +16,7 @@ A software that allow user to search for book and get information such as: title
 1.  Clone the repository
 
       ```bash
-     git clone https://github.com/........
+     git clone git@github.com:saurabh-dev01/book-store.git
      ```
 
 2.  Install the dependencies
@@ -47,11 +47,11 @@ A software that allow user to search for book and get information such as: title
    Password: admin@123
 7. Sync Data to Elasticsearch
    
-   Login to admin panel and click on sync button, it'll copy books data to elastic search in bulk.
+   Login to admin panel and click on sync button, It'll copy books data to elastic search in bulk.
 8. Run Project
 
   ## Serching Books
-  The search feature of the software uses Elasticsearch to search books. When user select filter or visit page, the software returns a list of relevant books. To access the details of a single , user can click on the Click Here button.
+  The search feature of the software uses Elasticsearch to search books. When user select filter or visit page, the software returns a list of relevant books. To access the details of a single user then click on the Click Here button.
 
 ## Admin Panel
    The admin panel allows for the manage books. The following features are available in admin panel:
